@@ -1,4 +1,7 @@
 # 355 Gomoku
+## Group Mmmber
+1. Qi Song, ID: 1578706
+2. Jiachen Xu, ID: 1580948
 
 ## Technology
 1. Language: JavaScript
